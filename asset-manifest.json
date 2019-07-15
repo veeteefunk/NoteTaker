@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NoteTaker/static/css/main.8f958165.chunk.css",
+    "main.js": "/NoteTaker/static/js/main.9e712f2d.chunk.js",
+    "main.js.map": "/NoteTaker/static/js/main.9e712f2d.chunk.js.map",
+    "runtime~main.js": "/NoteTaker/static/js/runtime~main.877c6e19.js",
+    "runtime~main.js.map": "/NoteTaker/static/js/runtime~main.877c6e19.js.map",
+    "static/js/2.6b12c761.chunk.js": "/NoteTaker/static/js/2.6b12c761.chunk.js",
+    "static/js/2.6b12c761.chunk.js.map": "/NoteTaker/static/js/2.6b12c761.chunk.js.map",
+    "index.html": "/NoteTaker/index.html",
+    "precache-manifest.dab81e7058e82206e1e880e6c67aa6e1.js": "/NoteTaker/precache-manifest.dab81e7058e82206e1e880e6c67aa6e1.js",
+    "service-worker.js": "/NoteTaker/service-worker.js",
+    "static/css/main.8f958165.chunk.css.map": "/NoteTaker/static/css/main.8f958165.chunk.css.map",
+    "static/media/App.css": "/NoteTaker/static/media/landscape.bbac3e7d.jpg"
+  }
+}
